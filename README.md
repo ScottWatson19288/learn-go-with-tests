@@ -9,7 +9,7 @@ Run the test, see that it fails and check the error message is meaningful
 Write enough code to make the test pass
 Refactor
 
-On the face of it this may seem tedious but sticking to the feedback loo is important.
+On the face of it this may seem tedious but sticking to the feedback to is important.
 Not only does it ensure that you have relevant tests, it helps ensure you design good software by refactoring with the safety of tests.
 
 Seeing the test fail is an important check because it also lets you see what the error message looks like. As a developer it can be very hard to work with a codebase when failing tests do not give a clear idea as to what the problem is.
